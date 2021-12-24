@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/caobo171/node-zklib#readme",
   "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
     "node-zklib": "^1.0.0"
   }
 }
